@@ -1,7 +1,6 @@
-Required Python Libraries to run the code :
 
-1.) streamlit 
-2.) pandas 
-3.) plotly 
-4.) os 
-5.) base64
+streamlit 
+pandas 
+plotly 
+os 
+base64
